@@ -385,4 +385,4 @@ The full code from the tutorial is available in this [repository](https://github
 
 ## Copyright info
 
-All of these scenes are open source, protected with a standard Apache 2 licence. This licence states that this content can be used freely, even commercially, as long as you acknowledge the author. See the terms and conditions in the [LICENSE](/LICENSE) file.
+All of these scenes are open source, protected with a standard Apache 2 licence. This licence states that this content can be used freely, even commercially, as long as you acknowledge the author. See the terms and conditions in the [LICENSE](/LICENSE) file. OK?
