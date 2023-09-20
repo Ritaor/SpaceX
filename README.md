@@ -1,4 +1,4 @@
-# Decentraland Awesome Repository @12
+# Decentraland Awesome Repository @1
 
 Welcome to the Decentraland Awesome repository!!
 
